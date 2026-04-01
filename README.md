@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Sai Sahithi 👋</h1>
 
 <p align="center">
-  <b>Data Analyst · Data Engineer · AI Engineer</b><br>
+  <b>Data Analyst · Data Engineer · Data Scientist · AI Engineer</b><br>
   M.S. Data Analytics — San José State University &nbsp;|&nbsp; Based in San Francisco, CA
 </p>
 
