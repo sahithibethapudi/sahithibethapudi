@@ -52,7 +52,7 @@ I turn raw data into decisions — building end-to-end pipelines, BI dashboards,
 
 ### 📈 Experience Highlights
 
-- **Data Engineer @ Hexaware Technologies** — ETL pipelines (Python, Spark, Airflow) cutting data latency by 30%; AWS cloud pipelines improving query performance by 40%
+- **Data Engineer @  CoreIT** — ETL pipelines (Python, Spark, Airflow) cutting data latency by 30%; AWS cloud pipelines improving query performance by 40%
 - **Data Scientist @ Orchasp Limited** — Improved data quality by 30% using Python/SQL; built Tableau dashboards for cross-team decision-making
 - **Data Analyst @ Eco Pharma** — Power BI dashboards (DAX) improving reporting usability by 35%; anomaly detection reducing errors by 25%
 
