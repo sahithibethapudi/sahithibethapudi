@@ -15,7 +15,7 @@
 
 ### About Me
 
-I turn raw data into decisions — building end-to-end pipelines, BI dashboards, and AI-powered systems that actually get used. I've worked across the full data stack: from cleaning 20K+ pharma sales records and building Power BI reports, to architecting Spark/Airflow ETL pipelines on AWS and Azure, to building LLM agents with RAG and vector databases.
+I turn raw data into decisions, building end-to-end pipelines, BI dashboards, and AI-powered systems that actually get used. I've worked across the full data stack: from cleaning 20K+ pharma sales records and building Power BI reports, to architecting Spark/Airflow ETL pipelines on AWS and Azure, to building LLM agents with RAG and vector databases.
 
 - 🔭 Currently building: **LLM-based domain expert simulation** (RAG + LangChain + FAISS + Streamlit)
 - 🌱 Always learning: Advanced ML, cloud-native data architectures, prompt engineering
